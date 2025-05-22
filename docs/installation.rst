@@ -19,6 +19,11 @@ DroneMD uses geoflow in some parts such as:
 3. Installation
 ----------------
 
+a. R (geoflow)
+https://github.com/IRDG2OI/geoflow-g2oi?tab=readme-ov-file#required-software-installation
+
+
+b. Python
 Easy way : 
 (Optionnal: create a python venv, please watch python documentation)
 
